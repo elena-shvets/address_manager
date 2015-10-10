@@ -1,0 +1,6 @@
+com/addresscrud/model/Phone.class
+com/addresscrud/model/Countries.class
+com/addresscrud/model/Country.class
+com/addresscrud/model/City.class
+com/addresscrud/model/CountryCode.class
+com/addresscrud/model/Address.class

@@ -1,0 +1,6 @@
+com/addresscrud/repository/AddressRepository.class
+com/addresscrud/repository/impl/AddressRepositoryImpl.class
+com/addresscrud/repository/impl/CityRepositoryImpl.class
+com/addresscrud/repository/PhoneRepository.class
+com/addresscrud/repository/CityRepository.class
+com/addresscrud/repository/impl/PhoneRepositoryImpl.class
